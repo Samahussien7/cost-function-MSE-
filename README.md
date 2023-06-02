@@ -1,5 +1,8 @@
 # cost-function-MSE-
+![download](https://github.com/Samahussien7/cost-function-MSE-/assets/103051103/b55d850f-8216-47b7-b416-9e3e2f86d515)
+
 x=[2,4,6,810,12]
+
 y=[5,3,3,8,5,6]
 y1=x
 y2=.5x
